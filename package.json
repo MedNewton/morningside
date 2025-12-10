@@ -27,7 +27,7 @@
     "flubber": "^0.4.2",
     "formik": "^2.4.6",
     "gsap": "^3.12.7",
-    "next": "^15.2.3",
+    "next": "15.3.6",
     "react": "^19.0.0",
     "react-awesome-reveal": "^4.3.1",
     "react-dom": "^19.0.0",
